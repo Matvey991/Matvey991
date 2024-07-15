@@ -13,3 +13,7 @@
 <a href='https://vk.com/1fedotov'>
   <img align="left" alt="Matvey Fedotov | Vk" width="25px" src='https://img.icons8.com/?size=100&id=13977&format=png&color=000000'commit/>
 </a>
+<br />
+
+### Мой уровень в codewars:
+<img width='350px' src='https://www.codewars.com/users/Matvey991/badges/large'>
