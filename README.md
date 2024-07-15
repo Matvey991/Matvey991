@@ -11,4 +11,4 @@
 <img align='left' width='25px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png'>
 </a>
 <a href='https://vk.com/1fedotov'>
-<img width='25px' src='https://img.icons8.com/?size=100&id=13977&format=png&color=000000'>
+<img align='left' width='25px' src='https://img.icons8.com/?size=100&id=13977&format=png&color=000000'>
