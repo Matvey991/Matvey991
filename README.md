@@ -8,7 +8,8 @@
 
 ### Здесь можно найти меня:
 <a href='https://t.me/fedotov3'>
-<img align='left' alt='Matvey Fedotov | Telegramm' width='25px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png'>
-</a> <a href='https://vk.com/1fedotov'>
-<img align='left'  alt='Matvey Fedotov | VK' width='25px' src='https://img.icons8.com/?size=100&id=13977&format=png&color=000000'>
+  <img align="left" alt="Matvey Fedotov | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
+</a>
+<a href='https://vk.com/1fedotov'>
+  <img align="left" alt="Matvey Fedotov | Vk" width="25px" src='https://img.icons8.com/?size=100&id=13977&format=png&color=000000'commit/>
 </a>
