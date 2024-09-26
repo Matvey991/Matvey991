@@ -11,7 +11,7 @@
 
 ### Мои социальные сети:
 
-[![Telegram](https://shields.io/badge/-Telegram-000?logo=telegram&style=for-the-badge)](https://t.me/fedotov3)
+[![Telegram](https://shields.io/badge/-Telegram-000?logo=telegram&style=for-the-badge)](https://t.me/Ifedotov)
 [![Vkontakte](https://shields.io/badge/-Vkontakte-000?logo=vk&logoColor=4F7DB3&style=for-the-badge)](https://vk.com/1fedotov)
 
 ### Мой уровень в codewars:
