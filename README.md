@@ -8,6 +8,9 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7852b2?logo=bootstrap&style=for-the-badge&logoColor=fff)](https://getbootstrap.com/)
 [![Postman](https://img.shields.io/badge/-Postman-fc6c35?logo=Postman&style=for-the-badge&logoColor=fff)](https://www.postman.com/)
 [![Sass](https://img.shields.io/badge/-Sass-cc6599?logo=sass&style=for-the-badge&logoColor=fff)](https://sass-scss.ru/)
+<br />
+[![Redux](https://img.shields.io/badge/-Redux-4d3477?logo=Redux&style=for-the-badge&logoColor=fff)](https://redux.js.org/)
+[![Webpack](https://img.shields.io/badge/-Webpack-548299?logo=Webpack&style=for-the-badge&logoColor=fff)](https://webpack.js.org/)
 
 ### Мои социальные сети:
 
