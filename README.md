@@ -1,6 +1,6 @@
 # Привет, Меня зовут Матвей!
 
-## Языки и технологии:
+## Стек и технологии:
 [![JavaScript](https://shields.io/badge/-JavaScript-f7df1c?logo=javascript&style=for-the-badge&logoColor=222222)](https://learn.javascript.ru/)
 [![HTML](https://shields.io/badge/-HTML5-e54c20?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
 [![CSS](https://shields.io/badge/-CSS3-2162af?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
@@ -11,6 +11,7 @@
 <br />
 [![Redux](https://img.shields.io/badge/-Redux-4d3477?logo=Redux&style=for-the-badge&logoColor=fff)](https://redux.js.org/)
 [![Webpack](https://img.shields.io/badge/-Webpack-548299?logo=Webpack&style=for-the-badge&logoColor=fff)](https://webpack.js.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3078C6?logo=TypeScript&style=for-the-badge&logoColor=fff)](https://www.typescriptlang.org/)
 
 ### Мои социальные сети:
 
