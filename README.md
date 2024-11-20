@@ -12,7 +12,6 @@
 [![Redux](https://img.shields.io/badge/-Redux-4d3477?logo=Redux&style=for-the-badge&logoColor=fff)](https://redux.js.org/)
 [![Webpack](https://img.shields.io/badge/-Webpack-548299?logo=Webpack&style=for-the-badge&logoColor=fff)](https://webpack.js.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3078C6?logo=TypeScript&style=for-the-badge&logoColor=fff)](https://www.typescriptlang.org/)
-<br />
 [![Storybook](https://img.shields.io/badge/-Storybook-ff4685?logo=Storybook&style=for-the-badge&logoColor=fff)](https://storybook.js.org/)
 
 ### Мои социальные сети:
