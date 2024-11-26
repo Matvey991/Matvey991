@@ -17,7 +17,7 @@
 <br/>
 [![Docker](https://img.shields.io/badge/-Docker-1C63ED?logo=Docker&style=for-the-badge&logoColor=fff)](https://www.docker.com/)
 [![Babel](https://img.shields.io/badge/-Babel-F6DA55?logo=Babel&style=for-the-badge&logoColor=000000)](https://babeljs.io/)
-[![Npm](https://img.shields.io/badge/-Npm-db0404?logo=Npm&style=for-the-badge&logoColor=fff)](https://expressjs.com/)
+[![Npm](https://img.shields.io/badge/-Npm-db0404?logo=Npm&style=for-the-badge&logoColor=fff)](https://www.npmjs.com/)
 [![Express](https://img.shields.io/badge/-Express-1c2130?logo=Express&style=for-the-badge&logoColor=fff)](https://expressjs.com/)
 
 ### Мои социальные сети:
